@@ -29,11 +29,12 @@ class ContactController extends Controller
             'fname' => 'required',
             'lname' => 'required',
             'email' => 'required|email',
-            'phone' => 'required',
             'message' => 'required'
         ]);
 
-        Contact::create($request->all());
+        if ($request->request->get('subject') === null) {
+            Contact::create($request->all());
+        }
 
         return redirect()->back()
             ->with(['success' => 'Thank you for contact us. we will contact you shortly.']);
