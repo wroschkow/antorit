@@ -21,7 +21,6 @@
     <link rel="icon" href="https://www.antorit.de/favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" />
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
-    @vite('resources/js/app.js')
     <link rel="preload" href="/fonts/montserrat-v23-latin-600.woff2" as="font" type="font/woff2" crossorigin>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <script src="js/preline.js"></script>
