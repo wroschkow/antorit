@@ -1,6 +1,6 @@
-@section('title', 'Webentwicklung &amp; Programmierung aus München | ANTORIT')
+@section('title', 'Webentwicklung und Programmierung aus München | ANTORIT')
 @section('canonical', 'https://www.antorit.de')
-@section('description', 'Entwicklung individuelle Webanwendungen aus München! Websites ✓ Webshops ✓ Suchmaschinenoptimierung ✓ Professionell und individuell ✆ 0176/4938 5077')
+@section('description', 'Entwicklung individuelle Webanwendungen aus München! Websites ✓ Webshops ✓ Suchmaschinenoptimierung ✓ Professionell und individuell')
 @section('teaser-text-h1', 'INTERNET-AGENTUR FÜR WEBENTWICKLUNG UND RESPONSIVE DESIGN IN MÜNCHEN')
 @include('includes.head')
 <body>
