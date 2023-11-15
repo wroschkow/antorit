@@ -349,7 +349,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/incurvy.webp" alt="Image Description">
+                    <img class="w-full object-cover rounded-xl" src="img/incurvy.webp" alt="Eentwiclung Damen Mode Portal">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     incurvy.de<br/>
@@ -364,7 +364,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/bruellgruber.webp" alt="Image Description">
+                    <img class="w-full object-cover rounded-xl" src="img/bruellgruber.webp" alt="Erstellung und Desing Matallbau Internet Auftrittes">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     bruell-gruber.eu
@@ -378,7 +378,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/profis-finden.webp" alt="Image Description">
+                    <img class="w-full object-cover rounded-xl" src="img/profis-finden.webp" alt="Individuelle Entwicklung des  Marktplatzes für Handwerks-Leistungen">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     profis-finden.de
@@ -392,7 +392,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/pumpenscout.webp" alt="Image Description">
+                    <img class="w-full object-cover rounded-xl" src="img/pumpenscout.webp" alt="Umsetzung neue OXID Module für Online-Shop">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     pumpenscout.de
@@ -405,7 +405,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/deitert.webp   " alt="Image Description">
+                    <img class="w-full object-cover rounded-xl" src="img/deitert.webp" alt="Umsetzung neue OXID Module für Online-Shop">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     vereinsbedarf-deitert.de
