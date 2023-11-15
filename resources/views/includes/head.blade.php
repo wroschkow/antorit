@@ -39,5 +39,4 @@
     }
     ]
     }</script>
-    <script src="https://cloud.ccm19.de/app.js?apiKey=8c7f65d2919ff34d6c536a016653e816f8320d198691c62e&amp;domain=63c19d5248debc6bb2387b28" referrerpolicy="origin"></script>
 </head>
