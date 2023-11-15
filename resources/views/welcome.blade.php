@@ -349,7 +349,7 @@
             <!-- Card -->
             <a class="group hover:bg-gray-100 rounded-xl p-5 transition-all dark:hover:bg-white/[.05]" href="#">
                 <div class="aspect-w-16 aspect-h-10">
-                    <img class="w-full object-cover rounded-xl" src="img/incurvy.webp" alt="Eentwiclung Damen Mode Portal">
+                    <img class="w-full object-cover rounded-xl" src="img/incurvy.webp" alt="Entwicklung Damenmode Portal">
                 </div>
                 <h3 class="mt-5 text-xl text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
                     incurvy.de<br/>
