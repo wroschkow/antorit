@@ -1,0 +1,96 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-e6dc91c0.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/montserrat-v23-latin-600.eot": {
+    "file": "assets/montserrat-v23-latin-600-dfb7737d.eot",
+    "src": "resources/fonts/montserrat-v23-latin-600.eot"
+  },
+  "resources/fonts/montserrat-v23-latin-600.svg": {
+    "file": "assets/montserrat-v23-latin-600-d7b6a5df.svg",
+    "src": "resources/fonts/montserrat-v23-latin-600.svg"
+  },
+  "resources/fonts/montserrat-v23-latin-600.ttf": {
+    "file": "assets/montserrat-v23-latin-600-a61ffb70.ttf",
+    "src": "resources/fonts/montserrat-v23-latin-600.ttf"
+  },
+  "resources/fonts/montserrat-v23-latin-600.woff": {
+    "file": "assets/montserrat-v23-latin-600-ad5b07e6.woff",
+    "src": "resources/fonts/montserrat-v23-latin-600.woff"
+  },
+  "resources/fonts/montserrat-v23-latin-600.woff2": {
+    "file": "assets/montserrat-v23-latin-600-ae308e0f.woff2",
+    "src": "resources/fonts/montserrat-v23-latin-600.woff2"
+  },
+  "resources/fonts/montserrat-v23-latin-600italic.eot": {
+    "file": "assets/montserrat-v23-latin-600italic-aa48bdd6.eot",
+    "src": "resources/fonts/montserrat-v23-latin-600italic.eot"
+  },
+  "resources/fonts/montserrat-v23-latin-600italic.svg": {
+    "file": "assets/montserrat-v23-latin-600italic-97f4656e.svg",
+    "src": "resources/fonts/montserrat-v23-latin-600italic.svg"
+  },
+  "resources/fonts/montserrat-v23-latin-600italic.ttf": {
+    "file": "assets/montserrat-v23-latin-600italic-43be832b.ttf",
+    "src": "resources/fonts/montserrat-v23-latin-600italic.ttf"
+  },
+  "resources/fonts/montserrat-v23-latin-600italic.woff": {
+    "file": "assets/montserrat-v23-latin-600italic-69b34b5e.woff",
+    "src": "resources/fonts/montserrat-v23-latin-600italic.woff"
+  },
+  "resources/fonts/montserrat-v23-latin-600italic.woff2": {
+    "file": "assets/montserrat-v23-latin-600italic-5b518a43.woff2",
+    "src": "resources/fonts/montserrat-v23-latin-600italic.woff2"
+  },
+  "resources/fonts/montserrat-v23-latin-italic.eot": {
+    "file": "assets/montserrat-v23-latin-italic-67225968.eot",
+    "src": "resources/fonts/montserrat-v23-latin-italic.eot"
+  },
+  "resources/fonts/montserrat-v23-latin-italic.svg": {
+    "file": "assets/montserrat-v23-latin-italic-a3ca4254.svg",
+    "src": "resources/fonts/montserrat-v23-latin-italic.svg"
+  },
+  "resources/fonts/montserrat-v23-latin-italic.ttf": {
+    "file": "assets/montserrat-v23-latin-italic-9076947e.ttf",
+    "src": "resources/fonts/montserrat-v23-latin-italic.ttf"
+  },
+  "resources/fonts/montserrat-v23-latin-italic.woff": {
+    "file": "assets/montserrat-v23-latin-italic-5a1e7ee6.woff",
+    "src": "resources/fonts/montserrat-v23-latin-italic.woff"
+  },
+  "resources/fonts/montserrat-v23-latin-italic.woff2": {
+    "file": "assets/montserrat-v23-latin-italic-35bcc8cb.woff2",
+    "src": "resources/fonts/montserrat-v23-latin-italic.woff2"
+  },
+  "resources/fonts/montserrat-v23-latin-regular.eot": {
+    "file": "assets/montserrat-v23-latin-regular-1fa1212d.eot",
+    "src": "resources/fonts/montserrat-v23-latin-regular.eot"
+  },
+  "resources/fonts/montserrat-v23-latin-regular.svg": {
+    "file": "assets/montserrat-v23-latin-regular-03cb2602.svg",
+    "src": "resources/fonts/montserrat-v23-latin-regular.svg"
+  },
+  "resources/fonts/montserrat-v23-latin-regular.ttf": {
+    "file": "assets/montserrat-v23-latin-regular-e5fbfba6.ttf",
+    "src": "resources/fonts/montserrat-v23-latin-regular.ttf"
+  },
+  "resources/fonts/montserrat-v23-latin-regular.woff": {
+    "file": "assets/montserrat-v23-latin-regular-480eee43.woff",
+    "src": "resources/fonts/montserrat-v23-latin-regular.woff"
+  },
+  "resources/fonts/montserrat-v23-latin-regular.woff2": {
+    "file": "assets/montserrat-v23-latin-regular-a658b5f3.woff2",
+    "src": "resources/fonts/montserrat-v23-latin-regular.woff2"
+  },
+  "resources/img/logo.svg": {
+    "file": "assets/logo-dfd95fc0.svg",
+    "src": "resources/img/logo.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c3828592.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
