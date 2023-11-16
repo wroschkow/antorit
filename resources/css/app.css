@@ -542,3 +542,20 @@ a:hover {
 .contact-subject {
     display: none;
 }
+
+.ant-content h2, .ant-content h3,.ant-content h4 ,.ant-content h5 {
+    margin-bottom: 1em;
+}
+
+
+.ant-content ul{
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    list-style-position: outside;
+}
+
+.ant-content ul.lower-alpha{
+    list-style-type: lower-alpha;
+}
+
